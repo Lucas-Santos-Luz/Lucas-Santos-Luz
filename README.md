@@ -7,7 +7,6 @@
 
 
 
-**`Desenvolvedor Web`**
 
 Me chamo Lucas dos Santos Luz, tenho 18 anos e sou natural de São Paulo, atualmente morando em São José do Rio Preto, estou concluindo o ensino médio no Sesi, cursando Desenvolvimento de Sistemas no Senai.
 
