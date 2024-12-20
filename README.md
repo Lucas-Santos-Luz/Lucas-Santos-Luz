@@ -8,7 +8,7 @@
 
 
 
-Me chamo Lucas dos Santos Luz, tenho 18 anos e sou natural de São Paulo, atualmente morando em São José do Rio Preto, estou concluindo o ensino médio no Sesi, cursando Desenvolvimento de Sistemas no Senai.
+Me chamo Lucas dos Santos Luz, tenho 18 anos e sou natural de São Paulo, atualmente morando em São José do Rio Preto, conclui o ensino médio no Sesi com curso Técnico integrado, me formei em Técnico em Desenvolvimento de Sistemas no Senai.
 
 <p align="left">
 <a href="https://github.com/Lucas-Santos-Luz?tab=followers">
